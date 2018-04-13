@@ -1,0 +1,4 @@
+阅读基础讲义
+阅读李宏毅深度学习课件
+https://www.bilibili.com/video/av9770302/ 每天尽量看一章
+python程序 联系 1-2周 搞定 

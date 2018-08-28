@@ -2,4 +2,5 @@
 2018.8.27 安装好Anaconda opencv tensorflow 等配置环境.看了ECCV 2018 的StereoNe论文（https://arxiv.org/abs/1807.08865）
 2018.8.28 双目立体匹配概述https://blog.csdn.net/vincentff7zg/article/details/54598395 
           四种常见算法原理 https://blog.csdn.net/liulina603/article/details/53302168
-          用Python opencv 实现 BM算法下的立体匹配,但是结果好像并不太对.
+          使用Python opencv 实现 BM算法下的立体匹配,但是结果好像并不太对.
+          
